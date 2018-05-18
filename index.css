@@ -19,10 +19,6 @@ h5 {
   text-decoration: underline;
 }
 
-.Description {
-
-}
-
 .Image {
   display: flex;
   justify-content: left;
@@ -37,6 +33,6 @@ footer {
   justify-content: center;
 }
 
-footer p {
-
+#Horaire {
+  margin-left: 15px;
 }
