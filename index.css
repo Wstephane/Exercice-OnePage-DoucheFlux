@@ -14,17 +14,19 @@ p, q {
 h1 {
   display: flex;
   justify-content: center;
-  text-decoration: underline;
 }
 
-h5 {
+h1, h4, h5 {
   text-decoration: underline;
 }
 
 .Image {
   display: flex;
-  justify-content: left;
-  margin-left: 30%;
+  justify-content: center;
+}
+
+.Citation {
+  text-align: center;
 }
 
 footer {
@@ -35,6 +37,15 @@ footer {
   justify-content: center;
 }
 
+.Information {
+  margin-left: 15px;
+}
+
 #Horaire {
   margin-left: 15px;
+}
+
+#author {
+  font-family: cursive;
+  font-size: 17px;
 }
